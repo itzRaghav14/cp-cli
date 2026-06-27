@@ -1,0 +1,8 @@
+# Claude Code internal project notes — keep local, do not publish
+.claude/
+
+# macOS
+.DS_Store
+
+# Rust build output (for later, once we start building)
+/target
